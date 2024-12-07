@@ -15,7 +15,7 @@ public class ApotekGUI {
         @Override
         public void run()
         {
-            new frmUtama().setVisible(true);
+            //new frmUtama().setVisible(true);
         }
         });
     }
