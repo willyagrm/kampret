@@ -1,0 +1,1 @@
+myEntity.Obat
